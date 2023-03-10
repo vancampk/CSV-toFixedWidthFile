@@ -1,0 +1,15 @@
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\bin\Debug\net7.0\Fixed-Width.exe
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\bin\Debug\net7.0\Fixed-Width.deps.json
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\bin\Debug\net7.0\Fixed-Width.runtimeconfig.json
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\bin\Debug\net7.0\Fixed-Width.dll
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\bin\Debug\net7.0\Fixed-Width.pdb
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\obj\Debug\net7.0\Fixed-Width.csproj.AssemblyReference.cache
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\obj\Debug\net7.0\Fixed-Width.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\obj\Debug\net7.0\Fixed-Width.AssemblyInfoInputs.cache
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\obj\Debug\net7.0\Fixed-Width.AssemblyInfo.cs
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\obj\Debug\net7.0\Fixed-Width.csproj.CoreCompileInputs.cache
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\obj\Debug\net7.0\Fixed-Width.dll
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\obj\Debug\net7.0\refint\Fixed-Width.dll
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\obj\Debug\net7.0\Fixed-Width.pdb
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\obj\Debug\net7.0\Fixed-Width.genruntimeconfig.cache
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\obj\Debug\net7.0\ref\Fixed-Width.dll

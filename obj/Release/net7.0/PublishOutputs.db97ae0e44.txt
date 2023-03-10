@@ -1,0 +1,5 @@
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\bin\Release\net7.0\publish\Fixed-Width.exe
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\bin\Release\net7.0\publish\Fixed-Width.dll
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\bin\Release\net7.0\publish\Fixed-Width.deps.json
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\bin\Release\net7.0\publish\Fixed-Width.runtimeconfig.json
+C:\Users\kvancamp\Desktop\PersonalProject\Fixed-Width\bin\Release\net7.0\publish\Fixed-Width.pdb
